@@ -1,3 +1,5 @@
+This was forked strictly to test out a SMART on FHIR app and see how it works.
+
 # ASCVD Risk App #
 
 ASCVD Risk App is a web application built using React, ES2015, SMART, and FHIR technologies.
